@@ -1,0 +1,10 @@
+os: windows
+language: csharp
+mono: none
+
+script:
+- choco install dotnetcore-sdk
+- dotnet --version
+- dotnet build
+- dotnet test
+

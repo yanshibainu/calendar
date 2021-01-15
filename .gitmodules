@@ -1,0 +1,3 @@
+[submodule "calendar/sub-modules/jwt-authentication-lib"]
+	path = calendar/sub-modules/jwt-authentication-lib
+	url = https://edc140854a81d8b3b66504ccad8985128c6defe6:x-oauth-basic@github.com/yanshibainu/jwt-authentication-lib
