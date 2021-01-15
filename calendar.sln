@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calendar", "calendar\calendar.csproj", "{12BAAD8F-D52D-4AE0-A872-E3B38045B080}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calendar", "calendar\calendar.csproj", "{12BAAD8F-D52D-4AE0-A872-E3B38045B080}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jwt-authentication-lib", "calendar\sub-modules\jwt-authentication-lib\jwt-authentication-lib.csproj", "{95B3938E-3EC5-4E84-8BEC-FE0BE4E2C735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "utils-lib", "calendar\sub-modules\utils-lib\utils-lib.csproj", "{8D087C4A-B145-4655-BD66-57B6DFEC8D1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{12BAAD8F-D52D-4AE0-A872-E3B38045B080}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12BAAD8F-D52D-4AE0-A872-E3B38045B080}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12BAAD8F-D52D-4AE0-A872-E3B38045B080}.Release|Any CPU.Build.0 = Release|Any CPU
-		{95B3938E-3EC5-4E84-8BEC-FE0BE4E2C735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{95B3938E-3EC5-4E84-8BEC-FE0BE4E2C735}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{95B3938E-3EC5-4E84-8BEC-FE0BE4E2C735}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{95B3938E-3EC5-4E84-8BEC-FE0BE4E2C735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D087C4A-B145-4655-BD66-57B6DFEC8D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D087C4A-B145-4655-BD66-57B6DFEC8D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D087C4A-B145-4655-BD66-57B6DFEC8D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D087C4A-B145-4655-BD66-57B6DFEC8D1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="sub-modules\jwt-authentication-lib\jwt-authentication-lib.csproj" />
+    <ProjectReference Include="sub-modules\utils-lib\utils-lib.csproj" />
   </ItemGroup>
 
 </Project>
